@@ -45,3 +45,22 @@ footer {
     padding: 1rem 0;
     margin-top: 20px;
 }
+
+#shannon{
+    color: rgb(109, 60, 207);
+    box-shadow: 0 2px 5px rgba(128, 0, 255, 0.173);
+    background-color:  rgb(250, 248, 255);
+}
+
+#shannon h1{
+    color: rgb(109, 60, 207);
+}
+
+#shannon p{
+    color: rgb(129, 102, 184);
+}
+
+#shannon img{
+    border-radius: 10px;
+    
+}
